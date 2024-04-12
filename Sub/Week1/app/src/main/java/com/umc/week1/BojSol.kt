@@ -1,4 +1,4 @@
-package com.umc.boj
+package com.umc.week1
 
 import java.util.ArrayList
 
