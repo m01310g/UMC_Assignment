@@ -1,2 +1,3 @@
-# UMC_Assignment
- 
+### UMC_Assignment
+----------------------
+- UMC Android Part👾
